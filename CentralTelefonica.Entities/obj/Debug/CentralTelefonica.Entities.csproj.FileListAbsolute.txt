@@ -1,0 +1,13 @@
+c:\users\clase\documents\visual studio 2013\Projects\CentralTelefonica\CentralTelefonica.Entities\bin\Debug\CentralTelefonica.Entities.dll
+c:\users\clase\documents\visual studio 2013\Projects\CentralTelefonica\CentralTelefonica.Entities\bin\Debug\CentralTelefonica.Entities.pdb
+c:\users\clase\documents\visual studio 2013\Projects\CentralTelefonica\CentralTelefonica.Entities\obj\Debug\CentralTelefonica.Entities.dll
+c:\users\clase\documents\visual studio 2013\Projects\CentralTelefonica\CentralTelefonica.Entities\obj\Debug\CentralTelefonica.Entities.pdb
+C:\Users\Christian\Desktop\PC_02\CentralTelefonica\CentralTelefonica.Entities\bin\Debug\CentralTelefonica.Entities.dll
+C:\Users\Christian\Desktop\PC_02\CentralTelefonica\CentralTelefonica.Entities\bin\Debug\CentralTelefonica.Entities.pdb
+C:\Users\Christian\Desktop\PC_02\CentralTelefonica\CentralTelefonica.Entities\obj\Debug\CentralTelefonica.Entities.dll
+C:\Users\Christian\Desktop\PC_02\CentralTelefonica\CentralTelefonica.Entities\obj\Debug\CentralTelefonica.Entities.pdb
+C:\Users\Christian\Documents\PC_02\CentralTelefonica\CentralTelefonica.Entities\bin\Debug\CentralTelefonica.Entities.dll
+C:\Users\Christian\Documents\PC_02\CentralTelefonica\CentralTelefonica.Entities\bin\Debug\CentralTelefonica.Entities.pdb
+C:\Users\Christian\Documents\PC_02\CentralTelefonica\CentralTelefonica.Entities\obj\Debug\CentralTelefonica.Entities.dll
+C:\Users\Christian\Documents\PC_02\CentralTelefonica\CentralTelefonica.Entities\obj\Debug\CentralTelefonica.Entities.pdb
+C:\Users\Christian\Documents\PC_02\CentralTelefonica\CentralTelefonica.Entities\obj\Debug\CentralTelefonica.Entities.csprojResolveAssemblyReference.cache

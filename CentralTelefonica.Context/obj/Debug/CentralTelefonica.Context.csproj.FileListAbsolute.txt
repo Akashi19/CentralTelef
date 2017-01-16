@@ -1,0 +1,13 @@
+C:\Users\Christian\Desktop\PC_02\CentralTelefonica\CentralTelefonica.Context\obj\Debug\CentralTelefonica.Context.csprojResolveAssemblyReference.cache
+C:\Users\Christian\Documents\PC_02\CentralTelefonica\CentralTelefonica.Context\obj\Debug\CentralTelefonica.Context.csprojResolveAssemblyReference.cache
+C:\Users\Christian\Documents\PC_02\CentralTelefonica\CentralTelefonica.Context\bin\Debug\CentralTelefonica.Context.dll.config
+C:\Users\Christian\Documents\PC_02\CentralTelefonica\CentralTelefonica.Context\bin\Debug\CentralTelefonica.Context.dll
+C:\Users\Christian\Documents\PC_02\CentralTelefonica\CentralTelefonica.Context\bin\Debug\CentralTelefonica.Context.pdb
+C:\Users\Christian\Documents\PC_02\CentralTelefonica\CentralTelefonica.Context\bin\Debug\EntityFramework.dll
+C:\Users\Christian\Documents\PC_02\CentralTelefonica\CentralTelefonica.Context\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Christian\Documents\PC_02\CentralTelefonica\CentralTelefonica.Context\bin\Debug\EntityFramework.xml
+C:\Users\Christian\Documents\PC_02\CentralTelefonica\CentralTelefonica.Context\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Christian\Documents\PC_02\CentralTelefonica\CentralTelefonica.Context\obj\Debug\CentralTelefonica.Context.dll
+C:\Users\Christian\Documents\PC_02\CentralTelefonica\CentralTelefonica.Context\obj\Debug\CentralTelefonica.Context.pdb
+C:\Users\Christian\Documents\PC_02\CentralTelefonica\CentralTelefonica.Context\bin\Debug\CentralTelefonica.Entities.dll
+C:\Users\Christian\Documents\PC_02\CentralTelefonica\CentralTelefonica.Context\bin\Debug\CentralTelefonica.Entities.pdb
